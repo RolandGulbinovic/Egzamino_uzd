@@ -1,8 +1,8 @@
 # Egzamino_uzd
 
-Aplanke "Kodas" - turime kodą.
-Aplanke "Release" - Įdiegimo failas. 
+Aplanke **"Kodas"** - turime kodą. <br/>
+Aplanke **"Release"** - Įdiegimo failas. 
 
 ### Naudojimosi instrukcija
-<p> Paleidžiame įdiegimo failą setup.exe, sukuriamas yra shortcut'as ant desktopo. </p>
-<p> Reikalingi du .txt failai, vienas kartojimui užduočiai (tekstas.txt), kitas URL randimui (tekstas2.txt). Viskas yra išvedama į "resultatas.txt" failą. </p>
+Paleidžiame įdiegimo failą _setup.exe_, sukuriamas yra shortcut'as ant desktopo.
+Reikalingi du .txt failai, vienas kartojimui užduočiai (_tekstas.txt_), kitas URL randimui (_tekstas2.txt_). Viskas yra išvedama į "_resultatas.txt_" failą. 
